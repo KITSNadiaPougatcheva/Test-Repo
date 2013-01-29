@@ -1,0 +1,6 @@
+set classpath=%classpath%;d:\workspaceIndigo.ATG101.BRICO\Test1\lib\axis.jar;d:\workspaceIndigo.ATG101.BRICO\Test1\lib\axis-ant.jar;d:\workspaceIndigo.ATG101.BRICO\Test1\lib\commons-discovery-0.2.jar;d:\workspaceIndigo.ATG101.BRICO\Test1\lib\commons-logging-1.0.4.jar;d:\workspaceIndigo.ATG101.BRICO\Test1\lib\jaxrpc.jar;d:\workspaceIndigo.ATG101.BRICO\Test1\lib\saaj.jar;d:\workspaceIndigo.ATG101.BRICO\Test1\lib\wsdl4j-1.5.1.jar
+
+
+0.aubert2@laposte.net
+
+java  org.apache.axis.wsdl.WSDL2Java AddressBook.wsdl

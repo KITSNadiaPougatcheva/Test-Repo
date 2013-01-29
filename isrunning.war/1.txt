@@ -1,0 +1,8 @@
+Current Selections
+   	Nucleus Component: /brico/search/utils/FacetHolderPeriodicService
+Method: boolean isRunning()
+Parameter Names: (none)
+EAR File: D:\env.ATG.10.1.BRCO\ATG.10.1\home\isRunning.ear
+Servlet Name: isRunning
+Host: isrunning
+Port: 1234
